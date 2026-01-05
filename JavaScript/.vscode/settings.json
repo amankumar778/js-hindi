@@ -1,0 +1,34 @@
+{
+    "cSpell.words": [
+        "doga",
+        "kumar",
+        "naagraj",
+        "shaktiman",
+        "Vaishali",
+        "Youtubename"
+    ],
+    "editor.allowVariableLineHeights": true,
+
+    // 🚫 Disable auto suggestions popup
+    // "editor.quickSuggestions":false,
+
+    // 🚫 Disable suggestions when typing "." or other trigger characters
+    "editor.suggestOnTriggerCharacters": false,
+
+    // 🚫 Disable inline ghost text (inline suggestions)
+    "editor.inlineSuggest.enabled": false,
+
+    // 🚫 Disable parameter hints
+    "editor.parameterHints.enabled": false,
+
+    "editor.codeActionsOnSave": {
+
+    },
+    "json.schemas": [
+
+    ],
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    }
+}
